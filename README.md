@@ -13,7 +13,6 @@ El proyecto está diseñado con una estructura modular que separa las diferentes
 - Aplicación orientada al aprendizaje de programación en Scala
 
 ## Tecnologías
-
-- Python
 - Programación modular
 - Manejo de estructuras de datos
+
